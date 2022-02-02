@@ -79,7 +79,7 @@ h2 {
 .card {
   border-radius: 5px;
   width: 600px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.9);
   box-shadow: 1px 0px 4px 1px rgba(0,0,0,0.10);
   padding: 20px;
   margin: 20px auto;
@@ -88,7 +88,7 @@ h2 {
 .card.social {
   border-radius: 5px;
   width: 600px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.9);
   box-shadow: 1px 0px 4px 1px rgba(0,0,0,0.10);
   padding: 0px 20px 20px 20px;
   margin: 25px auto;
